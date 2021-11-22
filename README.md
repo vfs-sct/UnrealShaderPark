@@ -1,8 +1,8 @@
-# GAME TITLE
+# Unreal Shader Park
 
 ### High Concept
 
-<ONE PARA INTRO - THE GAME, THE OBJECTIVE, THE MAJOR ACTIVITY>
+Modular shader/materials/post processing that can be combined, divided into expensive and cheap use cases
 
 * <KEY FEATURES LIST - TOP 5>
 
