@@ -19,13 +19,8 @@ Action               | Keyboard Control  | Gamepad Control
 Movement             | AWSD              | Left stick
 Direction Aim        | Mouse position    | Right stick
 Basic Gun attack     | Left mouse click  | R2
-Basic Arm attack     | Right mouse click | L2
-(Eye Bomb)           | Q                 | R1
-Trigger Eye Bomb     | Right mouse click | R1
-Dash                 | Space             | L1
-Interact(Pick up)    | F                 | X
-UI                   | AWSD(Select)+ Enter(Confirm)+ESC(Cancel) | Left/Right stick(Select)+X(Confirm)+Square(Cancel)
-Heal                 | Ctrl              | Triangle
+Grenade              | Right mouse click | L2
+SlowMo               | Capslock          | L2
 
 ### Debug tools/controls
 
@@ -40,4 +35,6 @@ Use the <key> to open the menu
 
 ### Team:
 
-* <TEAM MEMBER - ROLE>
+* <Tutorials>
+Dean Ashton
+Ben Crawford
