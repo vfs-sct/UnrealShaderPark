@@ -1,16 +1,14 @@
-# GAME TITLE
+# SHADER PARK
 
 ### High Concept
 
-<ONE PARA INTRO - THE GAME, THE OBJECTIVE, THE MAJOR ACTIVITY>
+Single use Unreal Shaders/VFX/Post Processing 
+Split between single use and combinatory items
 
 * <KEY FEATURES LIST - TOP 5>
+Avoiding tick, using timers where possible
+Splitting between high cost and cheap implementations of similiar things
 
-### Documents
-
-[Game Design](<LINK TO GDD HERE>)
-
-[Technical Design](<LINK TO TDD HERE>)
 
 ### Controls
 
@@ -19,25 +17,19 @@ Action               | Keyboard Control  | Gamepad Control
 Movement             | AWSD              | Left stick
 Direction Aim        | Mouse position    | Right stick
 Basic Gun attack     | Left mouse click  | R2
-Basic Arm attack     | Right mouse click | L2
-(Eye Bomb)           | Q                 | R1
-Trigger Eye Bomb     | Right mouse click | R1
-Dash                 | Space             | L1
-Interact(Pick up)    | F                 | X
-UI                   | AWSD(Select)+ Enter(Confirm)+ESC(Cancel) | Left/Right stick(Select)+X(Confirm)+Square(Cancel)
-Heal                 | Ctrl              | Triangle
+Grenade              | Right mouse click | L2
+SlowMo               | Capslock          | L2
+Reload - Energy/Ammo | R                 | 
 
 ### Debug tools/controls
 
-Use the <key> to open the menu
-
-1. Press <button> to <trigger behaviour>
+Not yet added
 
 
 ### Known Issues
 
-* <CAVEATS: KNOWN THINGS TO NOT DO, CRASH BUGS>
+Weird seam in the middle of my black hole
 
-### Team:
+### References:
 
-* <TEAM MEMBER - ROLE>
+* Dean Ashton, Ben Crawford, Marilie Latulippe-Allard
