@@ -2,15 +2,13 @@
 
 ### High Concept
 
-<ONE PARA INTRO - THE GAME, THE OBJECTIVE, THE MAJOR ACTIVITY>
+Single use Unreal Shaders/VFX/Post Processing 
+Split between single use and combinatory items
 
 * <KEY FEATURES LIST - TOP 5>
+Avoiding tick, using timers where possible
+Splitting between high cost and cheap implementations of similiar things
 
-### Documents
-
-[Game Design](<LINK TO GDD HERE>)
-
-[Technical Design](<LINK TO TDD HERE>)
 
 ### Controls
 
@@ -21,20 +19,17 @@ Direction Aim        | Mouse position    | Right stick
 Basic Gun attack     | Left mouse click  | R2
 Grenade              | Right mouse click | L2
 SlowMo               | Capslock          | L2
+Reload - Energy/Ammo | R                 | 
 
 ### Debug tools/controls
 
-Use the <key> to open the menu
-
-1. Press <button> to <trigger behaviour>
+Not yet added
 
 
 ### Known Issues
 
-* <CAVEATS: KNOWN THINGS TO NOT DO, CRASH BUGS>
+Weird seam in the middle of my black hole
 
-### Team:
+### References:
 
-* <Tutorials>
-Dean Ashton
-Ben Crawford
+* Dean Ashton, Ben Crawford, Marilie Latulippe-Allard
