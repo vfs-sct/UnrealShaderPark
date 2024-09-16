@@ -1,13 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
-		{
-			"Name": "NiagaraExtras",
-			"Enabled": true
-		},
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
