@@ -9,6 +9,9 @@ Plugins/*/Intermediate/
 Saved/
 Build/WindowsNoEditor/
 
+# PinWright MCP plugin (installed per-machine, not checked in - see AGENT_INSTALL.md upstream)
+Plugins/PinWright/
+
 # Wwise Project
 Wwise/IncrementalSoundBankData.xml
 Wwise/.cache/

@@ -1,0 +1,17 @@
+{
+	"mcpServers":
+	{
+		"pinwright":
+		{
+			"type": "stdio",
+			"command": "C:/Program Files/Epic Games/UE_5.7/Engine/Binaries/ThirdParty/Python3/Win64/python.exe",
+			"args": [
+				"C:/Users/Public/Repos/UnrealShaderPark/Plugins/PinWright/Content/Python/mcp_proxy.py",
+				"--token-file",
+				"C:/Users/Public/Repos/UnrealShaderPark/Saved/PinWright/gateway-token",
+				"--port-file",
+				"C:/Users/Public/Repos/UnrealShaderPark/Saved/PinWright/gateway-port"
+			]
+		}
+	}
+}
