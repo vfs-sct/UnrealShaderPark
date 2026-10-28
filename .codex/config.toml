@@ -1,0 +1,5 @@
+[mcp_servers.pinwright]
+command = "F:/UE573/UE_5.7/Engine/Binaries/ThirdParty/Python3/Win64/python.exe"
+args = ["E:/Repos/UnrealShaderPark/Plugins/PinWright/Content/Python/mcp_proxy.py", "--token-file", "E:/Repos/UnrealShaderPark/Saved/PinWright/gateway-token", "--port-file", "E:/Repos/UnrealShaderPark/Saved/PinWright/gateway-port"]
+startup_timeout_sec = 5.0
+tool_timeout_sec = 300.0

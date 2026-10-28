@@ -4,13 +4,13 @@
 		"pinwright":
 		{
 			"type": "stdio",
-			"command": "C:/Program Files/Epic Games/UE_5.7/Engine/Binaries/ThirdParty/Python3/Win64/python.exe",
+			"command": "F:/UE573/UE_5.7/Engine/Binaries/ThirdParty/Python3/Win64/python.exe",
 			"args": [
-				"C:/Users/Public/Repos/UnrealShaderPark/Plugins/PinWright/Content/Python/mcp_proxy.py",
+				"E:/Repos/UnrealShaderPark/Plugins/PinWright/Content/Python/mcp_proxy.py",
 				"--token-file",
-				"C:/Users/Public/Repos/UnrealShaderPark/Saved/PinWright/gateway-token",
+				"E:/Repos/UnrealShaderPark/Saved/PinWright/gateway-token",
 				"--port-file",
-				"C:/Users/Public/Repos/UnrealShaderPark/Saved/PinWright/gateway-port"
+				"E:/Repos/UnrealShaderPark/Saved/PinWright/gateway-port"
 			]
 		}
 	}
