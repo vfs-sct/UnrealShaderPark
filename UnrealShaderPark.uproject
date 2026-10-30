@@ -15,6 +15,10 @@
 		{
 			"Name": "PinWright",
 			"Enabled": true
+		},
+		{
+			"Name": "AudioCapture",
+			"Enabled": true
 		}
 	]
 }
